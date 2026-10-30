@@ -1,0 +1,15 @@
+# How to run the code 
+
+"" "Save the code in a file named email_detector.py or any name you wish 
+Open a terminal or command prompt in the folder where you saved it.
+Run:
+bash
+
+
+python email_detector.py
+If that command isn’t recognized, try:
+
+bash
+
+
+python3 email_detector.py 
